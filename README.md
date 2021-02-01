@@ -96,3 +96,40 @@ is intended to be shared.
 [Back to Top](#table-of-contents)
 
 <a></a>
+
+### **User Requirements and Expectations**
+
+<a></a>
+
+#### Requirements
+
+* Navigate the site using the navbar.
+* Be able to create my personal account.
+* Be able to login to my personal account.
+* Be able to logout of my personal account.
+* Be able to create personal entries.
+* Be able to edit personal entries.
+* Be able to delete personal entries.
+* Be able to efficiently search for key words across entries.
+* Be able to do all of the above from various devices.
+* Website is displayed appealingly and is secure.
+
+<a></a>
+
+#### Expectations
+
+* Can tap/click on navbar links to direct around the site.
+* Can trust that the site is secure and password locked.
+* Can create my personal account.
+* Can login to my personal account.
+* Can logout of my personal account.
+* Can create personal entries effectively.
+* Can edit personal entries effectively.
+* Can delete personal entries effectively.
+* Can search my journal using key words.
+* Can access and use my journal from various devices.
+* Website is appealing, easy to use, and responsive.
+
+[Back to Top](#table-of-contents)
+
+<a></a>
