@@ -53,3 +53,18 @@ journal on the internet, using whichever internet-capable device is most easily 
 The finished site will be clean, efficient, and not so frilly that it becomes cluttered up or
 difficult to navigate. The purpose of this site is to be personal, as opposed to a blog which
 is intended to be shared.
+
+### **User Goals**
+
+* Ability to create my personal account.
+* Ability to login to my personal account.
+* Ability to logout of my personal account.
+* Ability to create personal entries.
+* Ability to edit personal entries.
+* Ability to delete personal entries.
+* Ability to use a search function for key words across entries.
+* Responsiveness to different devices.
+
+[Back to Top](#table-of-contents)
+
+<a></a>
