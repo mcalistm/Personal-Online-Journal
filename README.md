@@ -133,3 +133,17 @@ is intended to be shared.
 [Back to Top](#table-of-contents)
 
 <a></a>
+
+### **Design Choices**
+
+I searched the term "forest" in [Coolors](https://coolors.co/ "Coolors.co") to find the 
+color scheme that I ultimately used for this site. I decided on this search term because
+I wanted calming, relaxed colors that had a woodsy, natural vibe to them, an aesthetic
+often associated with journaling. I chose to avoid using white as a background because
+of the textual nature of this site - something I learned in my teaching courses is that
+people with reading difficulties such as dyslexia often find reading on a white background
+much more difficult than reading on a cream colored background. I also chose to avoid
+white because of the digital nature of this site, and the connection between blue light 
+given off by white screens and deterioration of sleep cycles.
+
+<a></a>
