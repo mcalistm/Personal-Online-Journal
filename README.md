@@ -165,3 +165,11 @@ accents the other colors used nicely.
 well with the other colors and isn't too dark to be a button color, but isn't too light to be a text color.
 
 <a></a>
+
+#### Fonts
+
+The two fonts I used for this site are [Mukta](https://fonts.google.com/specimen/Mukta) 
+and [Montserrat](https://fonts.google.com/specimen/Montserrat). I chose Mukta because it is sans-serif,
+which is often easier to read, and chose Montserrat because it was one of the top paired fonts on Google Fonts.
+
+<a></a>
