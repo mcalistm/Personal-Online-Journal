@@ -37,3 +37,19 @@ most easily accessible internet-capable devices.
     * [Local Deployment](#local-deployment)
     * [Heroku Deployment](#heroku-deployment)
 * [Credits](#credits)
+
+---
+
+<a name="ux"></a>
+
+## **UX**
+
+<a></a>
+
+### **Project Goals**
+
+The goal of this project is to provide users with a space where they can cultivate their own
+journal on the internet, using whichever internet-capable device is most easily accessible to them.
+The finished site will be clean, efficient, and not so frilly that it becomes cluttered up or
+difficult to navigate. The purpose of this site is to be personal, as opposed to a blog which
+is intended to be shared.
