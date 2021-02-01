@@ -80,3 +80,19 @@ is intended to be shared.
 * As a user, I expect to be able to efficiently search for key words across entries.
 
 <a></a>
+
+### **Site owners Goals**
+
+* Provide users with a functional space to create a personal account.
+* Provide users with a functional space to login to a personal account.
+* Provide users with a functional space to logout of a personal account.
+* Provide users with a functional space to create personal entries.
+* Provide users with a functional space to edit personal entries.
+* Provide users with a functional space to delete personal entries.
+* Provide users with a functional search feature.
+* Provide users with a site that is fully responsive and easy to use on various devices.
+* Provide users with a secure site.
+
+[Back to Top](#table-of-contents)
+
+<a></a>
