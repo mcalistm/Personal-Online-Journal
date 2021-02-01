@@ -147,3 +147,21 @@ white because of the digital nature of this site, and the connection between blu
 given off by white screens and deterioration of sleep cycles.
 
 <a></a>
+
+#### Colors
+
+![Color Palette](wireframes/color-palette.png)
+ 
+*![#3F4238](https://placehold.it/15/3F4238/000000?text=+) `#3F4238`: Black Olive: I chose this as a header color because it has stark contrast and is easy to read. It
+isn't quite black but it is close. 
+*![#6B705C](https://placehold.it/15/6B705C/000000?text=+) `#6B705C`: Ebony: I chose this as a secondary text color because it is just different enough from Black Olive
+to be easy to differentiate for users, but is still easy to read.
+*![#FFE8D6](https://placehold.it/15/FFE8D6/000000?text=+) `#FFE8D6`: Champagne Pink: I chose this to be the background color of the main journal entry text fields because,
+as noted earlier, white backgrounds for text can be more difficult for people with dyslexia and for general health.
+Because this will be likely utilized in the evenings, and for lengths of time, this was taken strongly into account.
+*![#CB997E](https://placehold.it/15/CB997E/000000?text=+) `#CB997E`: Antique Brass: I chose this to be the main background color for the site because it is a calming color that
+accents the other colors used nicely.
+*![#B98B73](https://placehold.it/15/B98B73/000000?text=+) `#B98B73`: Antique Brass: I chose this as a third level text color for links, buttons and highlighted text because it works
+well with the other colors and isn't too dark to be a button color, but isn't too light to be a text color.
+
+<a></a>
