@@ -150,7 +150,7 @@ given off by white screens and deterioration of sleep cycles.
 
 #### Colors
 
-![Color Palette](wireframes/color-palette.png)
+![Color Palette](wireframes/onlineJournalPalette.png)
  
 * ![#3F4238](https://placehold.it/15/3F4238/000000?text=+) `#3F4238`: Black Olive: I chose this as a header color because it has stark contrast and is easy to read. It
 isn't quite black but it is close. 
