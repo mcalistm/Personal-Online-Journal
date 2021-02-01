@@ -68,3 +68,15 @@ is intended to be shared.
 [Back to Top](#table-of-contents)
 
 <a></a>
+
+### **User Stories**
+
+* As a user, I expect to be able to efficiently create my personal account.
+* As a user, I expect to be able to efficiently login to my personal account.
+* As a user, I expect to be able to efficiently logout of my personal account.
+* As a user, I expect to be able to efficiently create personal entries.
+* As a user, I expect to be able to efficiently edit personal entries.
+* As a user, I expect to be able to efficiently delete personal entries.
+* As a user, I expect to be able to efficiently search for key words across entries.
+
+<a></a>
